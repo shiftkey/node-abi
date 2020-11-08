@@ -39,3 +39,6 @@ jspm_packages
 # lock files
 yarn.lock
 package-lock.json
+
+# generated packages
+*.tgz
