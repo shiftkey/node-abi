@@ -1,5 +1,5 @@
 {
-  "name": "node-abi",
+  "name": "@shiftkey/node-abi",
   "version": "2.19.2-pre",
   "description": "Get the Node ABI for a given target and runtime, and vice versa.",
   "main": "index.js",
